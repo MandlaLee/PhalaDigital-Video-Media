@@ -24,6 +24,21 @@
       "generated_at": "2026-11-21T13:02:43.075586+02:00",
       "caption": "YOUR CHURCH ONLINE. A digital home for services, events and visitors. Phala Digital: WhatsApp 065 852 4272. #PhalaDigital #WebDesign #SmallBusinessSA",
       "verified": true
+    },
+    {
+      "video_id": "PVF-0005",
+      "filename": "PVF-0005_pd-0001.mp4",
+      "media_url": "https://github.com/MandlaLee/PhalaDigital-Video-Media/releases/download/phala-video-2026-11/PVF-0005_pd-0001.mp4",
+      "generated_at": "2026-11-21T14:04:44.999980+02:00",
+      "caption": "WHY SHOULD LOCAL RESTAURANTS LOOK ORDINARY ONLINE? — BUILD THE FIRST IMPRESSION. Phala Digital builds websites, branding and apps. WhatsApp 065 852 4272. #PhalaDigital #WebDesign #SmallBusinessSA",
+      "verified": true,
+      "prompt_id": "PD-0001",
+      "prompt_sha256": "a3ddd8adc62e47e0b5cf353a7154e93bbaae325570f0875c68db85b60227fd1f",
+      "treatment": "swiss-grid",
+      "creative_engine": "v2",
+      "creative_quality_approved": true,
+      "approval_method": "automatic-qa-v1",
+      "auto_qa_checks_passed": true
     }
   ]
 }
