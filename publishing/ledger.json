@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "video_id": "PVF-0003",
+      "metricool_post_id": "436550654",
+      "scheduled_for": "2026-11-21T13:10:00+02:00",
+      "providers": [
+        "tiktok",
+        "instagram",
+        "facebook"
+      ],
+      "status": "scheduled"
+    }
+  ]
+}
