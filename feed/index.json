@@ -369,6 +369,21 @@
       "creative_quality_approved": true,
       "approval_method": "automatic-qa-v1",
       "auto_qa_checks_passed": true
+    },
+    {
+      "video_id": "PVF-0029",
+      "filename": "PVF-0029_pd-0889.mp4",
+      "media_url": "https://github.com/MandlaLee/PhalaDigital-Video-Media/releases/download/phala-video-2026-11/PVF-0029_pd-0889.mp4",
+      "generated_at": "2026-11-23T00:02:27.762448+02:00",
+      "caption": "STUDENT APP FOUNDERS — MAKE EVERY DETAIL COUNT. — MAKE EVERY DETAIL COUNT. Phala Digital builds websites, branding and apps. WhatsApp 065 852 4272. #PhalaDigital #WebDesign #SmallBusinessSA",
+      "verified": true,
+      "prompt_id": "PD-0889",
+      "prompt_sha256": "9a067fe4c4e9333c0aeea152f859061f97a8df7825814a41c4fe0f8cda201767",
+      "treatment": "paper-cut",
+      "creative_engine": "v2",
+      "creative_quality_approved": true,
+      "approval_method": "automatic-qa-v1",
+      "auto_qa_checks_passed": true
     }
   ]
 }
