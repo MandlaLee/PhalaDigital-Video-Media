@@ -279,6 +279,21 @@
       "creative_quality_approved": true,
       "approval_method": "automatic-qa-v1",
       "auto_qa_checks_passed": true
+    },
+    {
+      "video_id": "PVF-0023",
+      "filename": "PVF-0023_pd-0667.mp4",
+      "media_url": "https://github.com/MandlaLee/PhalaDigital-Video-Media/releases/download/phala-video-2026-11/PVF-0023_pd-0667.mp4",
+      "generated_at": "2026-11-22T18:04:42.122546+02:00",
+      "caption": "INTRODUCE FLORISTS WITH INTENTION. — INTRODUCE IT BETTER. Phala Digital builds websites, branding and apps. WhatsApp 065 852 4272. #PhalaDigital #WebDesign #SmallBusinessSA",
+      "verified": true,
+      "prompt_id": "PD-0667",
+      "prompt_sha256": "06fba7b509018dd1f25ecca44fb07add6f61ba5a70b212907297bcc096b0ae00",
+      "treatment": "blueprint-build",
+      "creative_engine": "v2",
+      "creative_quality_approved": true,
+      "approval_method": "automatic-qa-v1",
+      "auto_qa_checks_passed": true
     }
   ]
 }
