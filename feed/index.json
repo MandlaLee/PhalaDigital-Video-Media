@@ -159,6 +159,21 @@
       "creative_quality_approved": true,
       "approval_method": "automatic-qa-v1",
       "auto_qa_checks_passed": true
+    },
+    {
+      "video_id": "PVF-0015",
+      "filename": "PVF-0015_pd-0371.mp4",
+      "media_url": "https://github.com/MandlaLee/PhalaDigital-Video-Media/releases/download/phala-video-2026-11/PVF-0015_pd-0371.mp4",
+      "generated_at": "2026-11-22T09:06:11.781582+02:00",
+      "caption": "GARDEN SERVICES — MAKE EVERY DETAIL COUNT. — MAKE EVERY DETAIL COUNT. Phala Digital builds websites, branding and apps. WhatsApp 065 852 4272. #PhalaDigital #WebDesign #SmallBusinessSA",
+      "verified": true,
+      "prompt_id": "PD-0371",
+      "prompt_sha256": "a190fee041c7a6401fd231267b08f88a7cb56fc5fb30a8f66f9aada0ab7fadbd",
+      "treatment": "isometric-tiles",
+      "creative_engine": "v2",
+      "creative_quality_approved": true,
+      "approval_method": "automatic-qa-v1",
+      "auto_qa_checks_passed": true
     }
   ]
 }
