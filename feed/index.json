@@ -189,6 +189,21 @@
       "creative_quality_approved": true,
       "approval_method": "automatic-qa-v1",
       "auto_qa_checks_passed": true
+    },
+    {
+      "video_id": "PVF-0017",
+      "filename": "PVF-0017_pd-0445.mp4",
+      "media_url": "https://github.com/MandlaLee/PhalaDigital-Video-Media/releases/download/phala-video-2026-11/PVF-0017_pd-0445.mp4",
+      "generated_at": "2026-11-22T11:05:48.467088+02:00",
+      "caption": "CAN VISITORS UNDERSTAND EVENT ORGANISERS AT A GLANCE? — SAY MORE WITH CLARITY. Phala Digital builds websites, branding and apps. WhatsApp 065 852 4272. #PhalaDigital #WebDesign #SmallBusinessSA",
+      "verified": true,
+      "prompt_id": "PD-0445",
+      "prompt_sha256": "40a8658806e8a4917ee86131255bd213025aa383bd4fec93b13cf32d81868bd5",
+      "treatment": "mobile-pov",
+      "creative_engine": "v2",
+      "creative_quality_approved": true,
+      "approval_method": "automatic-qa-v1",
+      "auto_qa_checks_passed": true
     }
   ]
 }
