@@ -384,6 +384,21 @@
       "creative_quality_approved": true,
       "approval_method": "automatic-qa-v1",
       "auto_qa_checks_passed": true
+    },
+    {
+      "video_id": "PVF-0030",
+      "filename": "PVF-0030_pd-0926.mp4",
+      "media_url": "https://github.com/MandlaLee/PhalaDigital-Video-Media/releases/download/phala-video-2026-11/PVF-0030_pd-0926.mp4",
+      "generated_at": "2026-11-23T01:02:31.830445+02:00",
+      "caption": "WHAT COULD YOUR STARTUP PITCHES LOOK LIKE ONLINE? — SEE THE POSSIBILITIES. Phala Digital builds websites, branding and apps. WhatsApp 065 852 4272. #PhalaDigital #WebDesign #SmallBusinessSA",
+      "verified": true,
+      "prompt_id": "PD-0926",
+      "prompt_sha256": "73a3625e1c6773602e865b6ff6e6d35e6865b09997206f4d73952cba5d939336",
+      "treatment": "bauhaus-shapes",
+      "creative_engine": "v2",
+      "creative_quality_approved": true,
+      "approval_method": "automatic-qa-v1",
+      "auto_qa_checks_passed": true
     }
   ]
 }
