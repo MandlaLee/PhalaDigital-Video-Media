@@ -549,6 +549,21 @@
       "creative_quality_approved": true,
       "approval_method": "automatic-qa-v1",
       "auto_qa_checks_passed": true
+    },
+    {
+      "video_id": "PVF-0041",
+      "filename": "PVF-0041_pd-0333.mp4",
+      "media_url": "https://github.com/MandlaLee/PhalaDigital-Video-Media/releases/download/phala-video-2026-11/PVF-0041_pd-0333.mp4",
+      "generated_at": "2026-11-23T18:04:01.040568+02:00",
+      "caption": "GIVE YOUR DELIVERY OFFER A PROPER SHOWCASE. — SHOW WHAT YOU OFFER. Phala Digital builds websites, branding and apps. WhatsApp 065 852 4272. #PhalaDigital #WebDesign #SmallBusinessSA",
+      "verified": true,
+      "prompt_id": "PD-0333",
+      "prompt_sha256": "9529d614f3fc56c4b558c5b1e0d3337c5b197c369c212b9601f628225b599e3a",
+      "treatment": "magazine-fold",
+      "creative_engine": "v2",
+      "creative_quality_approved": true,
+      "approval_method": "automatic-qa-v1",
+      "auto_qa_checks_passed": true
     }
   ]
 }
