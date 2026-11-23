@@ -489,6 +489,21 @@
       "creative_quality_approved": true,
       "approval_method": "automatic-qa-v1",
       "auto_qa_checks_passed": true
+    },
+    {
+      "video_id": "PVF-0037",
+      "filename": "PVF-0037_pd-0185.mp4",
+      "media_url": "https://github.com/MandlaLee/PhalaDigital-Video-Media/releases/download/phala-video-2026-11/PVF-0037_pd-0185.mp4",
+      "generated_at": "2026-11-23T14:05:18.631513+02:00",
+      "caption": "WHAT COULD YOUR ESTATE AGENTS LOOK LIKE ONLINE? — SEE THE POSSIBILITIES. Phala Digital builds websites, branding and apps. WhatsApp 065 852 4272. #PhalaDigital #WebDesign #SmallBusinessSA",
+      "verified": true,
+      "prompt_id": "PD-0185",
+      "prompt_sha256": "0463907c5c3a73520f9ba3c69412e586e17da3fa3ac0d58e0e140730df65a422",
+      "treatment": "mobile-pov",
+      "creative_engine": "v2",
+      "creative_quality_approved": true,
+      "approval_method": "automatic-qa-v1",
+      "auto_qa_checks_passed": true
     }
   ]
 }
