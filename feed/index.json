@@ -519,6 +519,21 @@
       "creative_quality_approved": true,
       "approval_method": "automatic-qa-v1",
       "auto_qa_checks_passed": true
+    },
+    {
+      "video_id": "PVF-0039",
+      "filename": "PVF-0039_pd-0259.mp4",
+      "media_url": "https://github.com/MandlaLee/PhalaDigital-Video-Media/releases/download/phala-video-2026-11/PVF-0039_pd-0259.mp4",
+      "generated_at": "2026-11-23T16:04:12.779801+02:00",
+      "caption": "MAKE IT EASIER TO REACH PLUMBERS. — MAKE THE NEXT STEP CLEAR. Phala Digital builds websites, branding and apps. WhatsApp 065 852 4272. #PhalaDigital #WebDesign #SmallBusinessSA",
+      "verified": true,
+      "prompt_id": "PD-0259",
+      "prompt_sha256": "ad9f70f462887f48ed86d4c73f439fc621130578d3f3dc27c30cb5b852a37791",
+      "treatment": "quiet-luxury",
+      "creative_engine": "v2",
+      "creative_quality_approved": true,
+      "approval_method": "automatic-qa-v1",
+      "auto_qa_checks_passed": true
     }
   ]
 }
