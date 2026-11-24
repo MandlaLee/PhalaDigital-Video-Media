@@ -609,6 +609,21 @@
       "creative_quality_approved": true,
       "approval_method": "automatic-qa-v1",
       "auto_qa_checks_passed": true
+    },
+    {
+      "video_id": "PVF-0045",
+      "filename": "PVF-0045_pd-0481.mp4",
+      "media_url": "https://github.com/MandlaLee/PhalaDigital-Video-Media/releases/download/phala-video-2026-11/PVF-0045_pd-0481.mp4",
+      "generated_at": "2026-11-24T02:05:07.622773+02:00",
+      "caption": "LET THE MISSION DO THE TALKING. — LET YOUR WORK SPEAK. Phala Digital builds websites, branding and apps. WhatsApp 065 852 4272. #PhalaDigital #WebDesign #SmallBusinessSA",
+      "verified": true,
+      "prompt_id": "PD-0481",
+      "prompt_sha256": "21c157c92beced206f5a3ae30fa3b37e117758b4a5718859b5e8c79e584e41ee",
+      "treatment": "swiss-grid",
+      "creative_engine": "v2",
+      "creative_quality_approved": true,
+      "approval_method": "automatic-qa-v1",
+      "auto_qa_checks_passed": true
     }
   ]
 }
