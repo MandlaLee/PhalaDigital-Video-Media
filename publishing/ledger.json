@@ -607,6 +607,19 @@
         "facebook"
       ],
       "status": "scheduled"
+    },
+    {
+      "video_id": "PVF-0057",
+      "prompt_id": "PD-0925",
+      "prompt_sha256": "3d3cf044efa87ed7d57e8edf09ce87d2895d87e4fa723de8130a1a2ddecdb943",
+      "metricool_post_id": "442545478",
+      "scheduled_for": "2026-11-27T20:30:00+02:00",
+      "providers": [
+        "tiktok",
+        "instagram",
+        "facebook"
+      ],
+      "status": "scheduled"
     }
   ]
 }
