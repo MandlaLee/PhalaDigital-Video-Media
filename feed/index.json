@@ -1164,6 +1164,21 @@
       "creative_quality_approved": true,
       "approval_method": "automatic-qa-v1",
       "auto_qa_checks_passed": true
+    },
+    {
+      "video_id": "PVF-0089",
+      "filename": "PVF-0089_pd-0109.mp4",
+      "media_url": "https://github.com/MandlaLee/PhalaDigital-Video-Media/releases/download/phala-video-2026-11/PVF-0089_pd-0109.mp4",
+      "generated_at": "2026-11-28T00:02:24.468364+02:00",
+      "caption": "SEE THE BAKERY BEAUTIFULLY ON A PHONE. — DESIGN FOR THE PHONE. Phala Digital builds websites, branding and apps. WhatsApp 065 852 4272. #PhalaDigital #WebDesign #SmallBusinessSA",
+      "verified": true,
+      "prompt_id": "PD-0109",
+      "prompt_sha256": "6000eff97da039d0c7a64eb7d888e27175c10036eace4662fc2d0143496b4379",
+      "treatment": "paper-cut",
+      "creative_engine": "v2",
+      "creative_quality_approved": true,
+      "approval_method": "automatic-qa-v1",
+      "auto_qa_checks_passed": true
     }
   ]
 }
